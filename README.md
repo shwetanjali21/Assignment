@@ -20,3 +20,5 @@ Pros ✅
 Cons 🚫
 - Time-consuming implementation of pixel-perfect designs
 - Challenges with responsiveness and cross-browser compatibility.
+
+Live working URL: https://assign.lovable.app/
