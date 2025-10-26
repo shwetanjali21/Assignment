@@ -1,24 +1,38 @@
-# Assignment
-This repository contains the implementation of an assignment based on a Figma design. The project is built using React or Next.js with a UI library like Tailwind CSS.
+# Modern UI Project
 
-Features 🌟
-- Two widgets on the right side of the screen 🖼
-- First widget: "about me", "experiences", "recommended" tabs 👤
-- Second widget: gallery with "add image" functionality 📸
-- Responsive for laptop screens (> 768px width) 💻
+A responsive and modern web UI built using *React, **TypeScript, **Tailwind CSS, **Vite, **Radix UI, and **shadcn/ui*.  
+This project demonstrates a clean component architecture, accessibility-focused design, and efficient frontend tooling.
 
-What I Learnt 🤓
-- Implementing Figma designs into functional React components 🎨
-- Using Tailwind CSS for styling and responsiveness 💅
-- Managing state and props for interactive widgets ⚙
+---
 
-Pros ✅
-- Improved understanding of React and Tailwind CSS
-- Practice with responsive design and UI implementation
-- Enhanced problem-solving skills for UI-related challenges
+## 🚀 Features
 
-Cons 🚫
-- Time-consuming implementation of pixel-perfect designs
-- Challenges with responsiveness and cross-browser compatibility.
+- ⚡ Built with *Vite* for fast development and optimized builds  
+- 🎨 Styled using *Tailwind CSS* and *shadcn/ui* components  
+- 🧩 *Radix UI* primitives for accessible, unstyled UI foundations  
+- 💡 *TypeScript* for type safety and maintainable code  
+- 📱 Fully responsive layout across screen sizes  
+- 🔍 Modular and reusable component structure  
+
+---
+
+## 🧠 Development Approach
+
+The initial UI layout and component structure were created with *AI-assisted design support*, then manually refined, customized, and integrated using the technologies listed above.  
+All design, logic, and customization align with the given assignment requirements.
+
+---
+
+## 🛠 Tech Stack
+
+| Category | Technology |
+|-----------|-------------|
+| Frontend Framework | React (TypeScript) |
+| Styling | Tailwind CSS |
+| UI Components | Radix UI, shadcn/ui |
+| Build Tool | Vite |
+| Additional Tools | ESLint, Prettier |
+
+
 
 Live working URL: https://assign.lovable.app/
